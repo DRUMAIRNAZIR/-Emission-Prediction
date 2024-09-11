@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Carbon_Emission_Prediction.git
+git clone https://github.com/DRUMAIRNAZIR/Carbon_Emission_Prediction.git
 Install the required dependencies:
 
 bash
